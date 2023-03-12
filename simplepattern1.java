@@ -15,5 +15,11 @@ public class simplepattern1 {
             System.out.println();  //moving to the next line
         }
     }
-
 }
+/*output:
+  *
+  **
+  ***
+  ****
+  *****
+*/

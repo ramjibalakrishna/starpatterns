@@ -17,6 +17,7 @@ public class simplepattern1 {
     }
 }
 /*output:
+5
   *****
   *****
   *****

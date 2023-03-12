@@ -18,3 +18,12 @@ public class simplepattern3 {
     }
 
 }
+/*output:
+5
+*****
+****
+***
+**
+*
+
+*/

@@ -17,3 +17,10 @@ public class simplepattern2 {
     }
 
 }
+/*output:
+  *
+  **
+  ***
+  ****
+  *****
+*/

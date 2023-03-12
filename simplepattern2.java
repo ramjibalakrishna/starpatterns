@@ -18,9 +18,10 @@ public class simplepattern2 {
 
 }
 /*output:
-  *
-  **
-  ***
-  ****
-  *****
+5
+*
+**
+***
+****
+*****
 */

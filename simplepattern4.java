@@ -21,3 +21,12 @@ public class simplepattern4 {
     }
 
 }
+output:
+/*
+*****
+ ****
+  ***
+   **
+    *
+    
+*/

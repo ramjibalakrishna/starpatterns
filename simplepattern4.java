@@ -23,6 +23,7 @@ public class simplepattern4 {
 }
 output:
 /*
+5
 *****
  ****
   ***

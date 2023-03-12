@@ -17,3 +17,10 @@ public class simplepat5 {
     }
 }
 
+/*output:
+     *
+    **
+   ***
+  ****
+ *****
+*/

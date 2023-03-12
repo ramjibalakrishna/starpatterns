@@ -18,6 +18,7 @@ public class simplepat5 {
 }
 
 /*output:
+5
      *
     **
    ***
